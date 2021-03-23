@@ -15,13 +15,13 @@ As a team, we value:
 ### The task
 #### Bike catalog
 Please create a mobile solution for a bike catalog with bike detail view.  
-The solution must preset a list of bikes with general information such as name, category, frame size, pictures, price etc.  
+The solution must preset a list of bikes with general information such as bike name, category, frame size, pictures, price.
 
 #### Filter
 The bike catalog must provide a filter by at least the following options: category, price range and frame size.
 
 #### Sort
-The bike catalog must be sortable by at least the following options: Highest to the lowest price and lowest to The highest price.
+The bike catalog must be sortable by at least the following options: Highest to the lowest price and lowest to the highest price.
 
 #### Bike detail
 By tapping on a bike, it is expected to see the detail of this bike. Feel free to include more data here to enrich your interface.
@@ -30,6 +30,15 @@ By tapping on a bike, it is expected to see the detail of this bike. Feel free t
 - Make sure you use clean and simple interface;
 - The solution must be a mobile app. So, you are free to use the framework you are most familiar with. Flutter, React Native or others hybrid frameworks are preferred;
 - You must provide instructions how to build your solution for both platforms: Android and iOS;
+
+#### Data structure
+You can choose the data structure that you think is best to represent the data. 
+The data structure must contain at least:
+- Bike name;
+- Bike category, e.g. Mountain bikes, City bikes, E-bikes etc;
+- Frame size;
+- List of pictures;
+- Price.
 
 ### Final considerartions
 - Your solution will be run into a unix-like operation systems.
