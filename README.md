@@ -27,7 +27,7 @@ The bike catalog must be sortable by at least the following options: Highest to 
 By tapping on a bike, it is expected to see the detail of this bike. Feel free to include more data here to enrich your interface.
 
 #### General requirements
-- Make sure you use clean and simple interface;
+- Make sure you have a clean and simple interface;
 - The solution must be a mobile app. So, you are free to use the framework you are most familiar with. Flutter, React Native or others hybrid frameworks are preferred;
 - You must provide instructions how to build your solution for both platforms: Android and iOS;
 
@@ -40,8 +40,8 @@ The data structure must contain at least:
 - List of pictures;
 - Price.
 
-### Final considerartions
-- Your solution will be run into a unix-like operation systems.
+### Operating system
+- Your solution will be run into a unix-like operating system.
 
 ### Deadline
 You will receive the deadline together with the link of this page. The time starts to count the moment we send it to you.
